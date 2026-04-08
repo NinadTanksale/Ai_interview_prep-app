@@ -30,14 +30,3 @@ A smart, full-stack web application built with the **MERN stack** (MongoDB, Expr
 8. **🎨 Clean Tailwind UI**  
    Responsive, accessible, and modern UI with smooth UX.
 
-
-## ⚙️ Tech Stack
-
-| Layer      | Technology                     |
-|------------|--------------------------------|
-| Frontend   | React.js, Tailwind CSS, Vite   |
-| Backend    | Node.js, Express.js            |
-| Database   | MongoDB                        |
-| AI Service | Gemini API (Q&A + Explanation) |
-| Auth       | JWT, Passport.js (if used)     |
-
