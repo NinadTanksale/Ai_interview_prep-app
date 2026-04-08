@@ -40,4 +40,4 @@ A smart, full-stack web application built with the **MERN stack** (MongoDB, Expr
 | Database   | MongoDB                        |
 | AI Service | Gemini API (Q&A + Explanation) |
 | Auth       | JWT, Passport.js (if used)     |
- [Swedeshna Mishra](https://github.com/SwedeshnaMishra)
+
